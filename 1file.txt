@@ -1,2 +1,6 @@
 welcome to devops, lets start learning git n github
 some modification in file1
+
+
+
+to check revert feature
